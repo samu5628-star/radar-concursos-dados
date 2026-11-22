@@ -1640,6 +1640,59 @@
       "id": "e9e19e6349a684274780c8bb"
     },
     {
+      "orgao": "Câmara Municipal de Ibiporã",
+      "cargo": "Técnico Legislativo",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Ibiporã",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4758.74,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-06-29",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-08-03",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-08-16",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-09-14",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "82b540dc6def4cc124a2db7f"
+    },
+    {
       "orgao": "Câmara Municipal de Ijuí",
       "cargo": null,
       "edital": "1/2026",
@@ -1867,6 +1920,166 @@
         }
       ],
       "id": "29f062dbf3a33604161a27d2"
+    },
+    {
+      "orgao": "Câmara Municipal de Maringá",
+      "cargo": "Assistente Administrativo",
+      "edital": null,
+      "localizacao": {
+        "municipio": "Maringá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4153.63,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [],
+      "id": "08b190520d16843e4bbc01c2"
+    },
+    {
+      "orgao": "Câmara Municipal de Maringá",
+      "cargo": "Assistente Legislativo",
+      "edital": null,
+      "localizacao": {
+        "municipio": "Maringá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4153.63,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [],
+      "id": "954a0a2cb4f89fd160909ae6"
+    },
+    {
+      "orgao": "Câmara Municipal de Maringá",
+      "cargo": "Fotógrafo",
+      "edital": null,
+      "localizacao": {
+        "municipio": "Maringá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4153.63,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [],
+      "id": "22c4bf2dce1d47afe4b75885"
+    },
+    {
+      "orgao": "Câmara Municipal de Maringá",
+      "cargo": "Operador de Audiovisual",
+      "edital": null,
+      "localizacao": {
+        "municipio": "Maringá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4153.63,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [],
+      "id": "aa89b4d1562e003ead856a1a"
+    },
+    {
+      "orgao": "Câmara Municipal de Maringá",
+      "cargo": "Operador de Computador",
+      "edital": null,
+      "localizacao": {
+        "municipio": "Maringá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4153.63,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [],
+      "id": "9e0cbd70b5746c62ad00e27e"
     },
     {
       "orgao": "Câmara Municipal de Marumbi",
@@ -2151,6 +2364,62 @@
         }
       ],
       "id": "52b5f4a39f5447a63873c9fa"
+    },
+    {
+      "orgao": "Câmara Municipal de Pitangueiras",
+      "cargo": "Advogado(a)",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Pitangueiras",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 7292.46,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          },
+          {
+            "tipo": "auxílio-alimentação",
+            "minimo": 300.0,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-03-16",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-04-16",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-05-17",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "fe0f18bad8c29fbc9badc343"
     },
     {
       "orgao": "Câmara Municipal de Pitangueiras PR",
@@ -3086,6 +3355,218 @@
       "id": "8507dd077f38aa7d24e671fe"
     },
     {
+      "orgao": "Prefeitura de Ângulo",
+      "cargo": "Assistente Social",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Ângulo",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4294.38,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-09-24",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-10-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-04",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-09",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "7e55826cf01f771809f6971b"
+    },
+    {
+      "orgao": "Prefeitura de Ângulo",
+      "cargo": "Dentista",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Ângulo",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4380.27,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-09-24",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-10-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-04",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-09",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "5e74d3a253bf7267fd2a32d3"
+    },
+    {
+      "orgao": "Prefeitura de Ângulo",
+      "cargo": "Enfermeiro",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Ângulo",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4294.38,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-09-24",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-10-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-04",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-09",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "5ea60f305320a4074e741ce4"
+    },
+    {
+      "orgao": "Prefeitura de Ângulo",
+      "cargo": "Médico",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Ângulo",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 6771.8,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-09-24",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-10-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-04",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-09",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "b76e93d66e2c681fc02b5727"
+    },
+    {
       "orgao": "Prefeitura de Ângulo PR",
       "cargo": null,
       "edital": null,
@@ -3249,6 +3730,272 @@
         }
       ],
       "id": "b49c980fbe312cb35990d1fe"
+    },
+    {
+      "orgao": "Prefeitura de Apucarana",
+      "cargo": "Administrador",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Apucarana",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 8886.87,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-12-06",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "76bc0c568db95a7793574354"
+    },
+    {
+      "orgao": "Prefeitura de Apucarana",
+      "cargo": "Agente Fiscal",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Apucarana",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 5415.55,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-12-06",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "f4b936ff1e03c8930851091e"
+    },
+    {
+      "orgao": "Prefeitura de Apucarana",
+      "cargo": "Arquiteto",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Apucarana",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 8208.13,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-12-06",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "7425d8ed6f683eb900bd398f"
+    },
+    {
+      "orgao": "Prefeitura de Apucarana",
+      "cargo": "Economista",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Apucarana",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 8886.87,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-12-06",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "b2b219862aa88a5e8537f9d3"
+    },
+    {
+      "orgao": "Prefeitura de Apucarana",
+      "cargo": "Engenheiro Civil",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Apucarana",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 11957.61,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-12-06",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "168d9f2d9f7ba2f999be874f"
+    },
+    {
+      "orgao": "Prefeitura de Apucarana",
+      "cargo": "Procurador Jurídico",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Apucarana",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 16381.41,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-12-06",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "acda32446c61f1213eb3f6e2"
+    },
+    {
+      "orgao": "Prefeitura de Apucarana",
+      "cargo": "Veterinário",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Apucarana",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 7734.7,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-12-06",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "8d21b53624ab7e16788f85c0"
     },
     {
       "orgao": "Prefeitura de Apucarana PR",
@@ -3764,6 +4511,44 @@
       "id": "723ea86ff8df09f3c88d7404"
     },
     {
+      "orgao": "Prefeitura de Borrazópolis",
+      "cargo": "médico",
+      "edital": null,
+      "localizacao": {
+        "municipio": "Borrazópolis",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": false,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 21312.9,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "resultado do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-05-25",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "afe844350080a6fd0b74fc40"
+    },
+    {
       "orgao": "Prefeitura de Borrazópolis-PR",
       "cargo": null,
       "edital": null,
@@ -4226,6 +5011,49 @@
         }
       ],
       "id": "cfea946dbc7e8fe2aa4e2cd5"
+    },
+    {
+      "orgao": "Prefeitura de Centenário do Sul",
+      "cargo": "Engenheiro Ambiental",
+      "edital": "1/2025",
+      "localizacao": {
+        "municipio": "Centenário do Sul",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 6300.16,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2025-12-05",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2025-12-18",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "ebeb6cac82db84eeccd68028"
     },
     {
       "orgao": "Prefeitura de Centenário do Sul-PR",
@@ -5003,6 +5831,70 @@
       "fontes": [],
       "datas": [],
       "id": "aa2ce581b6b324790c4697b0"
+    },
+    {
+      "orgao": "Prefeitura de Florestópolis",
+      "cargo": "Contador",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Florestópolis",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 15389.87,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [],
+      "id": "e0755e61a136cc3782ad6e80"
+    },
+    {
+      "orgao": "Prefeitura de Florestópolis",
+      "cargo": "Enfermeiro",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Florestópolis",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 5774.99,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [],
+      "id": "e9382eb92c1dfb3cb5bff3ab"
     },
     {
       "orgao": "Prefeitura de Fortaleza",
@@ -5914,6 +6806,112 @@
       "fontes": [],
       "datas": [],
       "id": "cc09ef4da8e634db4d6c1921"
+    },
+    {
+      "orgao": "Prefeitura de Ivaiporã",
+      "cargo": "Fonoaudiólogo",
+      "edital": "251/2026",
+      "localizacao": {
+        "municipio": "Ivaiporã",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4102.34,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-09-10",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-09-14",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-01",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "af809cb85d048c36ec074580"
+    },
+    {
+      "orgao": "Prefeitura de Ivaiporã",
+      "cargo": "Médico Clínico Geral",
+      "edital": "251/2026",
+      "localizacao": {
+        "municipio": "Ivaiporã",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em andamento",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 18106.37,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-09-10",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-09-14",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-10-13",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-11-01",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "00d54f3a3b62ecf338ddcebf"
     },
     {
       "orgao": "Prefeitura de Ivatuba",
@@ -7195,27 +8193,17 @@
       "fontes": [],
       "datas": [
         {
-          "data": "2025-07-11",
-          "tipo": "Data mencionada",
-          "confirmacao": "a confirmar"
-        },
-        {
-          "data": "2025-08-11",
-          "tipo": "Data mencionada",
-          "confirmacao": "a confirmar"
-        },
-        {
           "data": "2026-11-23",
           "tipo": "Data mencionada",
           "confirmacao": "a confirmar"
         },
         {
-          "data": "2026-12-13",
+          "data": "2026-12-22",
           "tipo": "Data mencionada",
           "confirmacao": "a confirmar"
         },
         {
-          "data": "2026-12-22",
+          "data": "2027-01-24",
           "tipo": "Data mencionada",
           "confirmacao": "a confirmar"
         }
@@ -7477,6 +8465,135 @@
       "id": "1ca94bd6fe4c7009e0e11a6e"
     },
     {
+      "orgao": "Prefeitura de Paranapoema",
+      "cargo": "Engenheiro Civil",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Paranapoema",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4046.83,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-06-09",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-06-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "39e44e57d72342802cca692c"
+    },
+    {
+      "orgao": "Prefeitura de Paranapoema",
+      "cargo": "Farmacêutico",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Paranapoema",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4583.08,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-06-09",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-06-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "ea4a98d29fdb35b0751b2349"
+    },
+    {
+      "orgao": "Prefeitura de Paranapoema",
+      "cargo": "Médico",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Paranapoema",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 13597.37,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-06-09",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-06-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "ad4edb6f50ae3181e0f53834"
+    },
+    {
       "orgao": "Prefeitura de Paranapoema-PR",
       "cargo": null,
       "edital": null,
@@ -7734,6 +8851,92 @@
         }
       ],
       "id": "95a13e1615614517dea22de8"
+    },
+    {
+      "orgao": "Prefeitura de Porecatu",
+      "cargo": "Médico PSF",
+      "edital": "2/2026",
+      "localizacao": {
+        "municipio": "Porecatu",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 8811.5,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-02-02",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-03-05",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "19859a38443850d7bc099db3"
+    },
+    {
+      "orgao": "Prefeitura de Porecatu",
+      "cargo": "Médico Veterinário PACS",
+      "edital": "2/2026",
+      "localizacao": {
+        "municipio": "Porecatu",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 8811.5,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-02-02",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-03-05",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "45477a1efcffb58462f621b9"
     },
     {
       "orgao": "Prefeitura de Porecatu-PR",
@@ -8064,6 +9267,38 @@
       "fontes": [],
       "datas": [],
       "id": "743e5e27d044298551e1b815"
+    },
+    {
+      "orgao": "Prefeitura de Rondon",
+      "cargo": "Cirurgião",
+      "edital": null,
+      "localizacao": {
+        "municipio": "Rondon",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 12810.55,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [],
+      "id": "b45e132433ad31a5642ec82b"
     },
     {
       "orgao": "Prefeitura de Sabáudia",
@@ -9326,6 +10561,120 @@
       "id": "529f471e0736720d930b37fb"
     },
     {
+      "orgao": "Prefeitura Municipal de Cianorte",
+      "cargo": "Enfermeiro",
+      "edital": "2/2026",
+      "localizacao": {
+        "municipio": "Cianorte",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 5998.13,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-09-27",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "d62b0b0f25611965aa210f56"
+    },
+    {
+      "orgao": "Prefeitura Municipal de Cianorte",
+      "cargo": "Fiscal Tributário",
+      "edital": "2/2026",
+      "localizacao": {
+        "municipio": "Cianorte",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 6416.25,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-09-27",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "e49c60e378061784514ee4db"
+    },
+    {
+      "orgao": "Prefeitura Municipal de Cianorte",
+      "cargo": "Médico",
+      "edital": "2/2026",
+      "localizacao": {
+        "municipio": "Cianorte",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "A confirmar",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 10879.75,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-09-27",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "e53d147d4ad0b7c9fb06fbea"
+    },
+    {
       "orgao": "Prefeitura Municipal de Colorado",
       "cargo": null,
       "edital": "68/2026",
@@ -10177,6 +11526,246 @@
       "id": "2b579de8ecb8aa8381f9af2d"
     },
     {
+      "orgao": "Prefeitura Municipal de Japurá",
+      "cargo": "Auditor Fiscal Municipal",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Japurá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 7132.09,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-06-24",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-07-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-08-16",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "73db32282e1e08f3cbe2489e"
+    },
+    {
+      "orgao": "Prefeitura Municipal de Japurá",
+      "cargo": "Contador",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Japurá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 7132.09,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-06-24",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-07-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-08-16",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "375cdb7067fc2fb4ba5634f1"
+    },
+    {
+      "orgao": "Prefeitura Municipal de Japurá",
+      "cargo": "Dentista",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Japurá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4870.68,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-06-24",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-07-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-08-16",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "e8198942844e0de4ad4498fc"
+    },
+    {
+      "orgao": "Prefeitura Municipal de Japurá",
+      "cargo": "Enfermeiro",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Japurá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 4870.68,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-06-24",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-07-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-08-16",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "caaceb1aee953a1969dd0732"
+    },
+    {
+      "orgao": "Prefeitura Municipal de Japurá",
+      "cargo": "Médico Clínico Geral",
+      "edital": "1/2026",
+      "localizacao": {
+        "municipio": "Japurá",
+        "uf": "PR",
+        "abrangencia": "municipal"
+      },
+      "situacao": "Em perspectiva",
+      "pista_ia_google": true,
+      "confirmacao": "indício",
+      "remuneracao": {
+        "salario_base": null,
+        "remuneracao_total": null,
+        "base_confirmacao": "a confirmar",
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": null,
+            "maximo": 26762.2,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
+      },
+      "fontes": [],
+      "datas": [
+        {
+          "data": "2026-06-24",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-07-26",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        },
+        {
+          "data": "2026-08-16",
+          "tipo": "Data mencionada",
+          "confirmacao": "a confirmar"
+        }
+      ],
+      "id": "cc725646aaada89940b57815"
+    },
+    {
       "orgao": "Prefeitura Municipal de JATAIZINHO",
       "cargo": null,
       "edital": "17/2026",
@@ -10437,7 +12026,25 @@
         "salario_base": null,
         "remuneracao_total": null,
         "base_confirmacao": "a confirmar",
-        "total_confirmacao": null
+        "total_confirmacao": null,
+        "mencoes": [
+          {
+            "tipo": "tipo a confirmar",
+            "minimo": 7500.0,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          },
+          {
+            "tipo": "auxílio-alimentação",
+            "minimo": 600.0,
+            "maximo": null,
+            "periodicidade": null,
+            "origem": "visão geral de IA do Google",
+            "confirmacao": "a confirmar"
+          }
+        ]
       },
       "fontes": [],
       "datas": [
