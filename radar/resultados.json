@@ -2,52 +2,5 @@
   "versao": 1,
   "origem": "Radar Windows",
   "concluido_em": "",
-  "registros": [
-    {
-      "orgao": "Tribunal de Justiça do Estado do Paraná",
-      "cargo": null,
-      "edital": null,
-      "localizacao": {
-        "municipio": null,
-        "uf": "PR",
-        "abrangencia": "estadual"
-      },
-      "situacao": "A confirmar",
-      "periodo_inscricoes_mencionado": null,
-      "escolaridade": null,
-      "pista_ia_google": true,
-      "confirmacao": "indício",
-      "remuneracao": {
-        "salario_base": null,
-        "remuneracao_total": null,
-        "base_confirmacao": "a confirmar",
-        "nao_divulgada": false,
-        "nao_extraida": false,
-        "total_confirmacao": null,
-        "estado": "nao_localizada"
-      },
-      "adicionais_mencionados": [],
-      "fontes": [],
-      "datas": [],
-      "ia_google": {
-        "estado": "leitura_incompleta",
-        "pistas": []
-      },
-      "id": "59aeb64813c851b8cd1cd600",
-      "observacao": "Remuneração não localizada · Leitura da IA incompleta · conferir o contexto da pista · Cargo a identificar · Fonte oficial a localizar",
-      "pendente_confirmacao": true
-    }
-  ],
-  "publicacao_parcial": {
-    "rotulo": "Publicação parcial — em validação",
-    "gerado_em": "2026-11-22T22:21:42-03:00",
-    "etapas_concluidas": 0,
-    "etapas_total": 28,
-    "consultas_concluidas": 1,
-    "consultas_pendentes": 261,
-    "consultas_organizadas": 1,
-    "oportunidades_identificadas": 1,
-    "registros_pendentes_confirmacao": 1,
-    "registros_elegiveis": 1
-  }
+  "registros": []
 }
